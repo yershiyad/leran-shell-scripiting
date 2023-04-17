@@ -6,3 +6,5 @@ yum list installed
 
 set-hostname test
 
+time
+
